@@ -5,7 +5,7 @@ MyRealTimeObjectDetectionApp/
 │   │   ├── main/
 │   │   │   ├── AndroidManifest.xml
 │   │   │   ├── assets/
-│   │   │   │   └── yolo.tflite         <-- Place your model file here
+│   │   │   │   └── yolo.tflite
 │   │   │   ├── java/com/example/realtimeobjectdetectionapp/
 │   │   │   │   ├── MainActivity.kt
 │   │   │   │   ├── ObjectDetector.kt
